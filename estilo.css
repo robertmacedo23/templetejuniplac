@@ -1,0 +1,13 @@
+body {
+    background: rgb(13, 219, 13);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background-color: rgba(210, 50, 50, 0.801);
+    color: white;
+    scale: 1.3;
+    
+}
